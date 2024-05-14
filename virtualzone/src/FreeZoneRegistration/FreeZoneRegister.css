@@ -1,0 +1,85 @@
+.free-zone-registeration{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+    background-color:whitesmoke;
+}
+.free-zone-registeration img{
+    width:40em;
+    margin-top: 2em;
+    opacity:1;
+}
+.free-zone-registeration h2,
+.free-zone-registeration h1,
+.free-zone-registeration p{
+    text-align : left;
+    color:black
+}
+.free-zone-registeration p{
+    font-size: large;
+}
+.free-zone-registeration button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    margin-top:3em;
+    justify-items:end;
+    color:white;
+}
+.free-zone-registeration a{
+    text-align: left;
+    margin-top: 10em;
+    color:red;
+}
+.free-zone-registration-main{
+    display:flex;
+    justify-content:center;
+    gap:5em;
+}
+.free-zone-registration-main img{
+    width:20em;
+}
+
+.free-zone-registration-get-started button{
+background-color: #df1b1b;
+   border: none;
+   color: white;
+   padding: 1.5em 3em 1.5em 3em;
+   text-align: center;
+   text-decoration: none;
+   font-size: 16px;
+   cursor: pointer;
+   border-radius: 5px;
+}
+.free-zone-registration-get-started a{
+    font-size:large;
+    color:red;
+    margin-bottom:3em;
+}
+.free-zone-registration-process {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    gap:10px;
+}
+.free-zone-registration-process-points{
+    display:inline-block;  
+    text-align: left;
+    width:30em;
+}
+.free-zone-registration-process img{
+    margin-top:15em;
+    width:40em;
+}
+.free-zone-registration-process-points p{
+    font-size: large;
+}
+.free-zone-registration-process-points h1{
+    font-size: 25px;
+}
+.free-zone-registration-process-points ol li{
+    font-size: 17px;
+}

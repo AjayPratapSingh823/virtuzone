@@ -1,0 +1,24 @@
+.faq{
+    margin-top:4em;
+  }
+  .faq h3{
+    margin-top:6em;
+    text-align:left;
+    margin-left: 8em;
+    font-size:large;
+  }
+  .faq span{
+    justify-content: left;
+    font-size:large;
+  }
+
+  .faq ul{
+    text-align: left;
+    margin-left: 7em;
+    font-size:large;
+  }
+  .faq h5{
+    text-align:justify;
+    margin-left: 11em;
+    font-size: medium;
+  }

@@ -1,0 +1,91 @@
+.get-started{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    gap:4em;
+    background-color: red;
+}
+.get-started img{
+    width:30em;
+    opacity:0.7;
+}
+.get-started h2,
+.get-started h1,
+.get-started p{
+    text-align : left;
+    color:white
+}
+.get-started button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    font-size: medium;
+    margin-top:3em;
+    justify-items:end;
+    color:rgb(224, 68, 68);
+}
+.get-started a{
+    text-align: left;
+    margin-top: 10em;
+    color:white;
+}
+.free-main{
+    display:flex;
+    justify-content: center;
+    gap:2em;
+}
+.free-main  p{
+    justify-content: center;
+    text-align:left;
+    font-size:large;
+}
+
+.main2 button{
+    padding:1.5em 3em 1.5em 3em;
+    background-color: red;
+    color:white;
+    margin-bottom: 1em;
+}
+.main2 a{
+    font-size:large;
+    color:red;
+    margin-bottom:3em;
+}
+.ownership{
+    display:flex;
+    justify-content:center;
+    text-align: center;
+    gap:8em;
+    margin-top:3em;
+}
+.ownership-benefit{
+    margin-top: 4em;
+    display:inline-block;
+    text-align: left;
+    width:30em;
+}
+.ownership-benefit p{
+    font-size: large;
+    font-weight: 350;
+}
+.setup-step{
+    margin-top:7em;
+    display:flex;
+    justify-content: center;
+    background-color: aliceblue;
+    padding:2em 2em;
+    text-align: center;
+    gap:6em;
+}
+.setup-step-points{
+    display: inline-block;
+    text-align: left;
+    width:15em;
+    border:none;
+    padding:1em 1em 1em 1em;
+    background-color:white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    font-size: large;
+}

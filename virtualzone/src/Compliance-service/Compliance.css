@@ -1,0 +1,66 @@
+.compliances-service{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:rgb(43, 247, 64);
+}
+.compliances-service img{
+    width:30em;
+    opacity:1;
+    margin-bottom: -3px;
+}
+.compliances-service h2,
+.compliances-service h1,
+.compliances-service p{
+    color:white;
+}
+.compliances-service button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    justify-items:end;
+    color:white;
+    margin-top: 2em;
+}
+
+
+.compliances-service-about{
+    text-align:center;
+    margin-top:8em;
+}
+.compliances-service-about-inside{
+    display: inline-block;
+    text-align: left;
+    width:60em;
+    font-size:large;
+}
+.compliances-service-about-inside a{
+    text-decoration: none;
+    color:red;
+}
+
+
+.mandatory-compliances-services-inside{
+    display:flex;
+    text-align: center;
+    gap:6em;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.mandatory-compliances-services-inside img{
+   width:10em;
+}
+.mandatory-compliances-services-content{
+    display:inline-block;
+    text-align: left;
+    width:50em;
+}
+.mandatory-compliances-services-content h1{
+    font-weight: 500;
+    color:rgb(23, 234, 23)
+}

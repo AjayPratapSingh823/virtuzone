@@ -1,0 +1,99 @@
+.bank-account-opening{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:rgb(74, 43, 247);
+}
+.bank-account-opening img{
+    width:30em;
+    opacity:1;
+    margin-bottom: -3px;
+}
+.bank-account-opening h2,
+.bank-account-opening h1,
+.bank-account-opening p{
+    color:white;
+}
+.bank-account-opening button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    justify-items:end;
+    color:white;
+    margin-top: 1em;
+}
+.bank-account-opening-service {
+    text-align:center;
+    margin-top:8em;
+}
+.bank-account-opening-inside{
+    display: inline-block;
+    text-align: left;
+    width:60em;
+    font-size:large;
+}
+.bank-account-opening-inside a{
+    text-decoration: none;
+    color:red;
+}
+.bank-account-point{
+    margin-top:8em;
+    display:flex;
+    justify-content: center;
+    font-size: large;
+    gap:4em;
+}
+.bank-account-points{
+    padding-left:10px;
+    background-color:rgb(222, 228, 234);
+    display:inline-block;
+    text-align:left;
+    width:20em;
+}
+
+
+.bank-opening-in-uae{
+   margin-top:7em;
+   display:flex;
+   justify-content:center;
+   display:flex;
+   gap:6em;
+   background-color: aliceblue;
+}
+.bank-opening-in-uae-inside{
+  display:inline-block;
+  text-align: left;
+  width:20em;
+}
+.bank-opening-in-uae-inside h1{
+    font-weight: 500;
+    color:rgb(74, 74, 229)
+}
+
+.bank-account-guide{
+    margin-top:8em;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    gap:3em;
+}
+.bank-account-guide-process{
+   display:inline-block;
+   text-align: left;
+   width:50em;
+}
+.bank-account-guide-process button{
+    margin-top:5em;
+    padding:1.5em 2em 1.5em 2em;
+    background-color: red;
+    color:white;
+    font-size:large;
+    border-radius: 5px;
+    border:none;
+    cursor:pointer;
+}

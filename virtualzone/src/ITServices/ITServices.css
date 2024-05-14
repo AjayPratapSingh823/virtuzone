@@ -1,0 +1,66 @@
+.it-services{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:rgb(85, 45, 245);
+}
+.it-services img{
+    width:30em;
+    opacity:1;
+    margin-bottom: -3px;
+}
+.it-services h2,
+.it-services h1,
+.it-services p{
+    color:white;
+}
+.it-services button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    justify-items:end;
+    color:white;
+    margin-top: 2em;
+}
+
+.it-services{
+    text-align:center;
+    /* margin-top:8em; */
+}
+.it-service {
+    text-align:center;
+    margin-top:8em;
+}
+.it-service-inside{
+    display: inline-block;
+    text-align: left;
+    width:60em;
+    font-size:large;
+}
+.it-service-inside a{
+    text-decoration: none;
+    color:red;
+}
+.it-services-consultancy{
+    background-color: antiquewhite;
+    display:flex;
+    justify-content: center;
+    gap:16em;
+    text-align: center;
+}
+.it-services-consultancy-options{
+    text-align:left;
+    width:15em;
+}
+.it-services-consultancy-options h1{
+    color:rgb(103, 130, 227);
+    font-weight: 600;
+}
+.it-services-consultancy-options p{
+    font-size: large;
+}

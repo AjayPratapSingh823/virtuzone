@@ -1,0 +1,65 @@
+.health-insurance{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:rgb(58, 89, 61);
+}
+.health-insurance img{
+    width:30em;
+    opacity:1;
+    margin-bottom: -3px;
+}
+.health-insurance  h2,
+.health-insurance h1,
+.health-insurance p{
+    color:white;
+}
+.health-insurance button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    justify-items:end;
+    color:white;
+    margin-top: 2em;
+}
+
+.health-insurance-service {
+    text-align:center;
+    margin-top:8em;
+}
+.health-insurance-service-inside{
+    display: inline-block;
+    text-align: left;
+    width:60em;
+    font-size:large;
+}
+.health-insurance-service-inside a{
+    text-decoration: none;
+    color:red;
+}
+.health-insurance-benefits{
+    margin-top:8em;
+    display:flex;
+    gap:6em;
+    justify-content:center;
+    text-align:center;
+}
+.health-insurance-benefits-inside{
+    text-align:left;
+    width:25em;
+}
+.health-insurance-benefits-inside h1{
+    text-align:left;
+    font-weight: 500;
+    font-size:25px;
+}
+.health-insurance-benefits-inside img{
+    background-color: rgb(223, 229, 234);
+    width:12em;
+    padding:3em 6em 3em 6em;
+}

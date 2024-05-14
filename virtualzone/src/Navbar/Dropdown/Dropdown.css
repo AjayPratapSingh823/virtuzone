@@ -1,0 +1,27 @@
+.drop-down {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1; 
+  }
+
+  .drop-down ul{
+    list-style: none;
+  }
+
+  .drop-down p{
+    text-align:left;
+    margin-left:3em;
+    font-weight: 500;
+  }
+
+  .drop-down ul li{
+    text-align: left;
+    text-decoration: none;
+  }
+  .drop-down ul li a:hover{
+    color:red;
+    /* font-size: 2px; */
+  }

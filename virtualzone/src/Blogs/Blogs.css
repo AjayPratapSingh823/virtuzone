@@ -1,0 +1,41 @@
+.blogs{
+    display: flex;
+    justify-content: center;
+}
+
+.blogs-content {
+    border-radius: 5px;
+    margin-left:2em;
+    width: 300px;
+    margin-bottom: 3em;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Apply box shadow */
+  }
+  
+  .blogs-content img {
+    width:19em;
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .blogs-content h2 {
+    margin-top: 10px;
+    text-align: left;
+  }
+  
+  .blogs-content-paragraph {
+    margin-top: 10px;
+  }
+  
+  .blogs-contentlogs-content p{
+    color: #888;
+    text-align:left
+  }
+  .card-date{
+    text-align: left;
+  }
+  .blogs-content a{
+    text-align: left;
+    color:red;
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+  }

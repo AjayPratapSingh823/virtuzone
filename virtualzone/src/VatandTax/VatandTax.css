@@ -1,0 +1,96 @@
+.vat-and-tax{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:rgb(4, 80, 12);
+}
+.vat-and-tax img{
+    width:30em;
+    opacity:1;
+    margin-bottom: -3px;
+}
+.vat-and-tax h2,
+.vat-and-tax h1,
+.vat-and-tax p{
+    color:white;
+}
+.vat-and-tax button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    justify-items:end;
+    color:white;
+    margin-top: 2em;
+}
+.vat-service {
+    text-align:center;
+    margin-top:8em;
+}
+.vat-service-inside{
+    display: inline-block;
+    text-align: left;
+    width:60em;
+    font-size:large;
+}
+.vat-service-inside a{
+    text-decoration: none;
+    color:red;
+}
+.vat-and-tax-point{
+    display:flex;
+    justify-content: center;
+    font-size: large;
+    gap:4em;
+}
+.vat-and-tax-points{
+    background-color:rgb(222, 228, 234);
+    display:inline-block;
+    text-align:left;
+    width:30em;
+}
+.vat-and-tax-consultancy{
+    background-color: antiquewhite;
+    display:flex;
+    justify-content: center;
+    gap:16em;
+    text-align: center;
+}
+.vat-and-tax-consultancy-options{
+    text-align:left;
+    width:20em;
+}
+.vat-and-tax-consultancy-options h1{
+    color:rgb(106, 96, 92);
+    font-weight: 600;
+}
+.vat-and-tax-consultancy-options p{
+    font-size: large;
+}
+
+.vat-and-tax-guide{
+    margin-top:8em;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    gap:3em;
+}
+.vat-and-tax-guide-process{
+   display:inline-block;
+   text-align: left;
+   width:50em;
+}
+.vat-and-tax-guide-process button{
+    margin-top:5em;
+    padding:1.5em 2em 1.5em 2em;
+    background-color: red;
+    color:white;
+    font-size:large;
+    border-radius: 5px;
+    border:none;
+    cursor:pointer;
+}

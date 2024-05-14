@@ -1,0 +1,104 @@
+.corporate-tax{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:rgba(5, 78, 17, 0.619);
+}
+.corporate-tax img{
+    width:30em;
+    opacity:1;
+    margin-bottom: -3px;
+}
+.corporate-tax h2,
+.corporate-tax h1,
+.corporate-tax p{
+    color:white;
+}
+.corporate-tax button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    justify-items:end;
+    color:white;
+    margin-top: 2em;
+}
+.corporate-tax-main{
+    text-align:center;
+    margin-top:8em;
+}
+.coporate-tax-inside{
+    display: inline-block;
+    text-align: left;
+    width:60em;
+    font-size:large;
+}
+.coporate-tax-inside a{
+    text-decoration: none;
+    color:red;
+}
+
+.corporate-tax-must{
+    text-align: center;
+}
+.corporate-tax-must-inside{
+    display:inline-block;
+    text-align:left;
+}
+
+.corporate-tax-must-inside h1{
+   font-size:20px;
+}
+.corporate-tax-must-inside p{
+    font-size:15px;
+ }
+ .corporate-tax-must-inside ul li{
+    padding:5px;
+    font-size:15px;
+    list-style:none;
+}
+
+.corporate-tax-services{
+    display:flex;
+    margin-top:8em;
+    justify-content: center;
+    gap:9em;
+    text-align:center;
+    background-color: aliceblue;
+}
+
+.corporate-tax-services-points{
+    text-align:left;
+    width:17em;
+}
+.corporate-tax-services-points h1{
+    color:rgb(85, 167, 140);
+    font-weight:500;
+}
+
+.corporate-tax-guide{
+    margin-top:8em;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    gap:3em;
+}
+.corporate-tax-guide-process{
+   display:inline-block;
+   text-align: left;
+   width:50em;
+}
+.corporate-tax-guide-process button{
+    margin-top:5em;
+    padding:1.5em 2em 1.5em 2em;
+    background-color: red;
+    color:white;
+    font-size:large;
+    border-radius: 5px;
+    border:none;
+    cursor:pointer;
+}

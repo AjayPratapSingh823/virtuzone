@@ -1,0 +1,11 @@
+.footer-list{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(255, 227, 216);
+  }
+
+  .footer-list ul{
+    list-style:none;
+    text-align: left;
+    justify-content: center;
+  }

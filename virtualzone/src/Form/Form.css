@@ -1,0 +1,84 @@
+.form-container {
+    margin-top: 10em;
+    margin-bottom: 5em;
+    display: flex;
+    justify-content: center;
+    gap:2em;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.card {
+    width: 42em;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    box-shadow: 0px 0px 10px 0px rgba(254, 248, 248, 0.1);
+    text-align: center; /* Center-align content within the card */
+}
+
+.card h2 {
+    text-align: center; /* Center-align the "Contact Us" heading */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.inline-group {
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="tel"],
+.form-group select,
+.form-group textarea {
+    width: 20em;
+    height: 2em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px 5px; /* Adjust padding for better appearance */
+}
+
+.form-group textarea {
+    height: 2em; /* Increase the height of the textarea */
+}
+
+.btn {
+    background-color: red;
+}
+
+.form-item label {
+    text-align: left;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.form-group h1 {
+    text-align: left;
+}
+
+.form-item span {
+    font-style: italic;
+    font-size: small;
+}
+
+.form-item select {
+    text-align: left;
+    width: 20em;
+    font-size: 16px; /* Adjust font size */
+}
+
+select {
+    font-size: 15px; /* Adjust font size */
+}

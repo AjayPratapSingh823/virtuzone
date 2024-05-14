@@ -1,0 +1,64 @@
+.mainland-buisness{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:whitesmoke;
+}
+.mainland-buisness img{
+    width:40em;
+    opacity:1;
+}
+.mainland-buisness h2,
+.mainland-buisness h1,
+.mainland-buisness p{
+    color:black;
+}
+.mainland-buisness button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    justify-items:end;
+    color:white;
+}
+
+.mainland-buisness-main{
+    display:flex;
+    justify-content:center;
+    gap:7em;
+    margin-top:5em;
+}
+.mainland-buisness-main-para{
+    width:32em;
+    margin-top:3em;
+    text-align:left;
+}
+
+.mainland-buisness-activities{
+    margin-top:7em;
+    display:flex;
+    justify-content: center;
+    gap:8em;
+    background-color: aliceblue;
+    text-align: center;
+}
+.mainland-buisness-activities ul{
+    list-style:none;
+    display:inline-block;
+    text-align:left;
+}
+.mainland-buisness-activities h2{
+    margin-left:2em;
+    display:block;
+    text-align:left;
+}
+.mainland-buisness-activities ul li{
+    padding:5px;
+    font-size: 20px;
+    font-weight: 450;
+    /* border:1px solid black; */
+}

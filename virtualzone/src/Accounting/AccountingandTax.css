@@ -1,0 +1,93 @@
+.accounting-and-tax{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:rgb(43, 247, 64);
+}
+.accounting-and-tax img{
+    width:30em;
+    opacity:1;
+    margin-bottom: -3px;
+}
+.accounting-and-tax h2,
+.accounting-and-tax h1,
+.accounting-and-tax p{
+    color:white;
+}
+.accounting-and-tax button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(228, 72, 72);
+    font-size: medium;
+    justify-items:end;
+    color:white;
+    margin-top: 2em;
+}
+
+.account-service {
+    text-align:center;
+    margin-top:8em;
+}
+.account-service-inside{
+    display: inline-block;
+    text-align: left;
+    width:60em;
+    font-size:large;
+}
+.account-service-inside a{
+    text-decoration: none;
+    color:red;
+}
+
+.accounting-services{
+    background-color: aliceblue;
+    display:flex;
+    text-align:center;
+    justify-content:center;
+    gap:8em;
+
+    
+}
+.accounting-services-points{
+   display:inline-block;
+   text-align: left;
+   width:20em;
+}
+
+.accounting-services-points h1{
+    font-size: 1.5em;
+    color:rgb(67, 231, 67);
+}
+.accounting-services-points p{
+    font-size:15px;
+}
+
+.accounting-services-points ul li{
+    padding:2px;
+    font-size: 15px;
+}
+
+.accounting-service-guide{
+    margin-top:8em;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    gap:3em;
+}
+.accounting-service-guide-process{
+   display:inline-block;
+   text-align: left;
+   width:50em;
+}
+
+.form-container.fixed {
+    position: fixed;
+    top:0;
+    right:0;
+  }
+  /* Add more styles as needed */
+  

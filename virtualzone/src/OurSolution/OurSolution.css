@@ -1,0 +1,49 @@
+.our-solution{
+    display:flex;
+    justify-content: center;
+    gap:7em;
+    background-color: red;
+}
+.our-solution img{
+    width:40em;
+    margin-top: 2em;
+    /* margin-bottom:-10em; */
+    opacity:1;
+}
+.our-solution h2,
+.our-solution h1,
+.our-solution p{
+    text-align : left;
+    color:white
+}
+.our-solution button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    font-size: medium;
+    margin-top:3em;
+    justify-items:end;
+    color:rgb(224, 68, 68);
+}
+.our-solution a{
+    text-align: left;
+    margin-top: 10em;
+    color:white;
+}
+
+.our-solution-step{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+    margin-top:8em;
+    
+}
+.our-solution-step img{
+    width:30em;
+}
+.our-solution-step h1,
+.our-solution-step p{
+    text-align: left;
+}

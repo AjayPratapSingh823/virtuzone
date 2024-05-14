@@ -1,0 +1,63 @@
+.mainland-visa{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:whitesmoke;
+}
+.mainland-visa img{
+    width:40em;
+    opacity:1;
+}
+.mainland-visa h2,
+.mainland-visa h1,
+.mainland-visa p{
+    color:black;
+}
+.mainland-visa button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    justify-items:end;
+    color:white;
+    margin-top: 4em;
+}
+.mainland-visa-main{
+    display:flex;
+    justify-content: center;
+    gap:5em;
+    text-align: center;
+    margin-top:8em;
+}
+.mainland-visa-main-para{
+    display:inline-block;
+    text-align: left;
+    width:35em;
+}
+.mainland-visa-main-para h1{
+    margin-left: 20px;
+    margin-bottom:-10px;
+}
+.mainland-visa-main-para ul li{
+    padding:10px;
+    font-size: large;
+}
+.family-residence{
+    display:flex;
+    justify-content:center;
+    gap:5em;
+    background-color: aliceblue;
+    text-align:center;
+}
+.family-residence-points{
+    display:inline-block;
+    text-align:left;
+    width:32em;
+}
+.family-residence-points ul li{
+    padding:5px;
+}

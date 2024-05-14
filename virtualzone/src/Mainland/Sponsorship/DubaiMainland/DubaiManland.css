@@ -1,0 +1,32 @@
+.dubai-mainland-license{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:whitesmoke;
+}
+.dubai-mainland-license img{
+    width:40em;
+    opacity:1;
+}
+.dubai-mainland-license h2,
+.dubai-mainland-license h1,
+.dubai-mainland-license p{
+    color:black;
+}
+.dubai-mainland-license button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    justify-items:end;
+    color:white;
+}
+.dubai-mainland-license a{
+    text-align: left;
+    margin-top: 10em;
+    color:red;
+}

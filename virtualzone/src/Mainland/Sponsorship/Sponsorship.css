@@ -1,0 +1,102 @@
+.sponsorship{
+    display:flex;
+    justify-content: center;
+    gap:15em;
+    background-color:whitesmoke;
+}
+.sponsorship img{
+    width:40em;
+    margin-top: 2em;
+    opacity:1;
+}
+.sponsorship h2,
+.sponsorship h1,
+.sponsorship p{
+    text-align : left;
+    color:black
+}
+.sponsorship button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    margin-top:3em;
+    justify-items:end;
+    color:white;
+}
+.sponsorship a{
+    text-align: left;
+    margin-top: 10em;
+    color:red;
+}
+.sponsorship-main{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+}
+.sponsorship-main p,
+.sponsorship-main h2{
+    text-align: left;
+}
+.sponsorship-main p{
+    font-size: large;
+}
+
+.sponsorship-getStarted button{
+    background-color: #df1b1b;
+   border: none;
+   color: white;
+   padding: 1.5em 3em 1.5em 3em;
+   text-align: center;
+   text-decoration: none;
+   font-size: 16px;
+   cursor: pointer;
+   border-radius: 5px;
+}
+
+.sponsorship-getStarted a{
+    font-size:large;
+    color:red;
+    margin-bottom:3em;
+}
+
+.local-sponsor{
+    background-color:rgb(157, 9, 9);
+    padding-top:3.5em;
+    padding-bottom: 3.5em;
+    width: 100vw;
+}
+.local-sponsor h1{
+font-size: 2em;
+color:white;
+}
+.local-sponsor p{
+    font-size: 20px;
+    color:white;
+    width:70em;
+    text-align:left;
+}
+
+.sponsorship-advantages{
+    gap:20px;
+    justify-content:center;
+    text-align: center;
+}
+.sponsorship-advantages p{
+    width:40em
+}
+.llc-sponsorship {
+    display:flex;
+    justify-content:center;
+    text-align: center;
+    gap:9em;
+}
+.llc-sponsorship-points{
+    text-align: left;
+    width:25em;
+}
+.llc-sponsorship img{
+    width:25em;
+}

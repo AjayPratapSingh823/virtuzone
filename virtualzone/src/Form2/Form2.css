@@ -1,0 +1,84 @@
+.form-2 {
+  margin-top: 10em;
+  margin-bottom: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
+.card-2 {
+  width: 20em;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px 0px rgba(254, 248, 248, 0.1);
+  text-align: center; /* Center-align content within the card */
+}
+
+.form-group-2 {
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.form-item-2 {
+  width: 48%;
+}
+
+.form-group-2 label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group-2 input[type="text"],
+.form-group-2 input[type="email"],
+.form-group-2 input[type="tel"],
+.form-group-2 select,
+.form-group-2 textarea {
+  width: 15em;
+  height: 2.5em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.form-group-2 textarea {
+  height: 3em;
+}
+
+.form-group-2 button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  justify-content: left;
+  font-size: 16px;
+  width: 50%;
+}
+
+.form-item-2 label {
+  text-align: left;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.form-group-2 h1 {
+  text-align: left;
+}
+
+.form-item-2 span {
+  font-style: italic;
+  font-size: small;
+}
+
+.form-item-2 select {
+  text-align: left;
+  width: 15em;
+}
+
+select {
+  font-size: 20px;
+}

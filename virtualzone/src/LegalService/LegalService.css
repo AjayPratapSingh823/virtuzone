@@ -1,0 +1,29 @@
+.legal-services{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:rgb(206, 59, 59);
+}
+.legal-services img{
+    width:30em;
+    opacity:1;
+    margin-bottom: -3px;
+}
+.legal-services h2,
+.legal-services h1,
+.legal-services p{
+    color:white;
+}
+.legal-services button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    font-size: medium;
+    justify-items:end;
+    color:rgb(246, 63, 63);
+    margin-top: 2em;
+}

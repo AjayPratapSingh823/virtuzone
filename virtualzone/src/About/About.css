@@ -1,0 +1,75 @@
+.about-us{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+    gap:4em;
+    background-color:rgb(201, 77, 28);
+}
+.about-us img{
+    width:40em;
+    opacity:1;
+    margin-bottom: -3px;
+}
+.about-us h2,
+.about-us h1,
+.about-us p{
+    color:white;
+}
+.about-us button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    font-size: medium;
+    justify-items:end;
+    color:rgb(241, 61, 61);
+    margin-top: 1em;
+}
+.about-us-video{
+    display:flex;
+    margin-top:7em;
+    justify-content: center;
+    gap:6em;
+    text-align: center;
+}
+.about-us-video-para{
+    display:inline-block;
+    text-align: left;
+    width:30em;
+}
+
+.about-us-point{
+    display:flex;
+    justify-content:center;
+    text-align: center;
+    gap:8em;
+    margin-top:3em;
+}
+.about-us-benefit{
+    margin-top: 4em;
+    display:inline-block;
+    text-align: left;
+    width:30em;
+}
+.about-us-benefit p{
+    font-size: large;
+    font-weight: 350;
+}
+.about-us-benefit h1{
+    font-size: 22px;
+}
+.about-team{
+    display:flex;
+    justify-content:center;
+    gap:12em;
+}
+.about-us-team p{
+   margin-top:-1em;
+   font-size:large;
+   font-weight: 350;
+}
+.about-us-team h1{
+    font-size:25px;
+}

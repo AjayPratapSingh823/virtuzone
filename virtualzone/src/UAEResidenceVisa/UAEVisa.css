@@ -1,0 +1,77 @@
+.uae-visa-residence{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+    background-color:whitesmoke;
+}
+.uae-visa-residence img{
+    width:40em;
+    margin-top: 2em;
+    opacity:1;
+}
+.uae-visa-residence h2,
+.uae-visa-residence h1,
+.uae-visa-residence p{
+    text-align : left;
+    color:black
+}
+.uae-visa-residence button{
+    text-align: left;
+    padding:1.5em 3em 1.5em 3em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    margin-top:3em;
+    justify-items:end;
+    color:white;
+}
+.uae-visa-residence a{
+    text-align: left;
+    margin-top: 10em;
+    color:red;
+}
+
+.uae-visa-residence-main{
+    margin-top: 6em;
+    display:flex;
+    justify-content: center;
+    gap:10em;
+}
+.uae-visa-residence-main  p{
+    margin-top:4em ;
+    justify-content: center;
+    text-align:left;
+    font-size:large;
+}
+.uae-visa-residence-get-started button{
+background-color: #df1b1b;
+border: none;
+color: white;
+padding: 1.5em 3em 1.5em 3em;
+text-align: center;
+text-decoration: none;
+font-size: 16px;
+cursor: pointer;
+border-radius: 5px;
+}
+
+.uae-visa-residence-get-started a{
+    margin-top: 2em;
+    font-size:large;
+    color:red;
+    margin-bottom:3em;
+}
+.visa-process{
+    margin-top:5em;
+    text-align: center;
+    background-color: aliceblue;
+}
+.visa-process-points{
+    display: inline-block;
+    text-align: left;
+    width:50em;
+}
+.visa-process-points h1{
+    font-size: 25px;
+}
